@@ -28,7 +28,7 @@
 					<img src="images/hdt.png" alt="alternate text"  width="350" height="450" style="padding-bottom:0.5em;">
 					<img src="images/kraft.jpg" width="300" height="450" style="padding-bottom:0.5em;">
                                 </div>
-				                                           
+				<p> </p>                                           
 				
     		</div><!-- /.blurb -->
                 <div class="auv", align="justify">			 
@@ -42,6 +42,7 @@ applications. My work focuses o developing control structures for these systems 
 				<img src="images/nessie.JPG" width="640" height="480">
 				<img src="images/sphere.jpg" width="640" height="480">
 				</div>
+                             <p> </p>  
                </div><!-- /.blurb -->
                 <div class="uvms", align="justify">
 			      <h2> Underwater Vehicle-Manipulator Systems</h2>
