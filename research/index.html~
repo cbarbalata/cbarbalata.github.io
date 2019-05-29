@@ -33,6 +33,7 @@
 				</ul>                                           
 				
     		</div><!-- /.blurb -->
+                <p></p>
                 <div class="auv", align="justify">			 
 				<h2> Autonomous Underwater Vehicles</h2>
                                 <ul>
@@ -47,6 +48,7 @@ applications. My work focuses o developing control structures for these systems 
 				<img src="images/sphere.jpg" width="640" height="480">
 				</div>
                </div><!-- /.blurb -->
+               <p></p> 
                 <div class="uvms", align="justify">
 			      <h2> Underwater Vehicle-Manipulator Systems</h2>
                               <ul>
@@ -61,6 +63,7 @@ applications. My work focuses o developing control structures for these systems 
 			      </div>	
 			
 		</div><!-- /.blurb -->
+                <p></p>
                 <div class="personal", align="justify">
 			<h2> Personal Robots</h2>
                         <ul>
