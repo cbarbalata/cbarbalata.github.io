@@ -20,9 +20,7 @@
 			<p> My research is focused on developing robotic systems that are able to operate in complex and unstructured environments. My areas of interest are control theory, motion and interaction planning, energy-efficient systems and robot perception. Passionate about exploring the depths of the ocean my research is applied to underwater robotic systems such as autonomous underwater vehicles and underwater vehicle-manipulator systems. But my interest into robotics is not limited to marine robotics. Other areas of applications I work in are mobile manipulation for personal environments and robotics for bio-medical applications. </p>
                          
 				<h2> Underwater Manipulation</h2>
-                                <ul>
-				<li>  An underwater manipulator is a complex system, highly non-linear and subject to disturbances caused by underwater effects. To obtain a reliable system, robust control strategies have to be designed for the manipulator. My work is focused on the development of model-based low-level position/force control structures for underwater manipulators, both electric and hydraulic. This work is also centered on investigation into data-based dynamic modelling for underwater manipulators, incorporating  hydrodynamic effects and end-effector force contact with the environment. </li>
-                                
+				<p>  An underwater manipulator is a complex system, highly non-linear and subject to disturbances caused by underwater effects. To obtain a reliable system, robust control strategies have to be designed for the manipulator. My work is focused on the development of model-based low-level position/force control structures for underwater manipulators, both electric and hydraulic. This work is also centered on investigation into data-based dynamic modelling for underwater manipulators, incorporating  hydrodynamic effects and end-effector force contact with the environment. </p>
 				<div style="width:image width px; font-size:80%; text-align:center">
 					<img src="images/control_m.png" width="800" height="300"> 
                                 </div> 
@@ -30,16 +28,13 @@
 					<img src="images/hdt.png" alt="alternate text"  width="350" height="450" style="padding-bottom:0.5em;">
 					<img src="images/kraft.jpg" width="300" height="450" style="padding-bottom:0.5em;">
                                 </div>
-				</ul>                                           
+				                                           
 				
     		</div><!-- /.blurb -->
-                <p></p>
                 <div class="auv", align="justify">			 
 				<h2> Autonomous Underwater Vehicles</h2>
-                                <ul>
-				<li>  Autonomous  underwater  vehicles  (AUVs) can  be  used  to  explore parts  of  the  ocean  that  were  previously  inaccessible  to mankind, e.g. below the ice sheets in the polar regions or confined underwater areas such as caves.  AUVs  have  a  wide  range  of  applications  from bathymetric mapping for scientific purposes, pipe inspection for the oil and gas industry or area surveillance for military
-applications. My work focuses o developing control structures for these systems that will make them reliable to operate in unforseen conditions and robust to large disturbances. Furthermore, my interest rests in developing systems that will extend the autonomy of the AUVs by making them energy and cost efficient. </li>
-                               </ul>
+				<p>  Autonomous  underwater  vehicles  (AUVs) can  be  used  to  explore parts  of  the  ocean  that  were  previously  inaccessible  to mankind, e.g. below the ice sheets in the polar regions or confined underwater areas such as caves.  AUVs  have  a  wide  range  of  applications  from bathymetric mapping for scientific purposes, pipe inspection for the oil and gas industry or area surveillance for military
+applications. My work focuses o developing control structures for these systems that will make them reliable to operate in unforseen conditions and robust to large disturbances. Furthermore, my interest rests in developing systems that will extend the autonomy of the AUVs by making them energy and cost efficient. </p>
                               <div style="width:image width px; font-size:80%; text-align:center">  
 			        <img src="images/control_v.png" width="1000" height="400"> 
 			      </div>
@@ -48,12 +43,9 @@ applications. My work focuses o developing control structures for these systems 
 				<img src="images/sphere.jpg" width="640" height="480">
 				</div>
                </div><!-- /.blurb -->
-               <p></p> 
                 <div class="uvms", align="justify">
 			      <h2> Underwater Vehicle-Manipulator Systems</h2>
-                              <ul>
-			      <li>  The interest in underwater vehicle manipulator systems has increased over the past years due to the need for interaction in underwater environments. Robots have been deployed to inspect and collect information for the oil and gas industry, military purposes and biological/geological studies. My work has focused in developing generalized models for underwater vehicle-manipulators that are able to estimate and analyze the effects between the vehicle and manipulator. These effects, also known as coupling effects, are significant and have to be understood as they can degrade the performence of the system lowering the manipulation precision and accuracy. Furthermore, my work has focused on developing control structures to compensate and address these coupling effects and improve the performence of the underwater vehicle-manipulator systems. </li>	
-                             </ul>
+			      <p>  The interest in underwater vehicle manipulator systems has increased over the past years due to the need for interaction in underwater environments. Robots have been deployed to inspect and collect information for the oil and gas industry, military purposes and biological/geological studies. My work has focused in developing generalized models for underwater vehicle-manipulators that are able to estimate and analyze the effects between the vehicle and manipulator. These effects, also known as coupling effects, are significant and have to be understood as they can degrade the performence of the system lowering the manipulation precision and accuracy. Furthermore, my work has focused on developing control structures to compensate and address these coupling effects and improve the performence of the underwater vehicle-manipulator systems. </p>	
 		              <div style="width:image width px; font-size:80%; text-align:center">		
 			      <img src="images/control_vm.png" width="1000" height="400"> 
 			      </div>	     
@@ -63,12 +55,10 @@ applications. My work focuses o developing control structures for these systems 
 			      </div>	
 			
 		</div><!-- /.blurb -->
-                <p></p>
                 <div class="personal", align="justify">
 			<h2> Personal Robots</h2>
-                        <ul>
-			<li> Robots  with  humanoid  shapes  or  more  practical  configurations are mobile and designed to perform tasks in clutteredand  dynamic  environments,  which  demand  robust  and  safe behavior.  Unfortunately  due  to  their  complex  mechnanical design, nonlinear characteristics and limited actuation capabilities, the mobile robots have difficulty performing complex tasks  in  restrictive  environments. My work is focused in to address these limitations from a planning and control perspective. More specifically I am interested in developing interconnected planning-control structures  that are computational efficient and adapt to the constantly changing environment. </li>
-                        </ul>
+			<p> Robots  with  humanoid  shapes  or  more  practical  configurations are mobile and designed to perform tasks in clutteredand  dynamic  environments,  which  demand  robust  and  safe behavior.  Unfortunately  due  to  their  complex  mechnanical design, nonlinear characteristics and limited actuation capabilities, the mobile robots have difficulty performing complex tasks  in  restrictive  environments. My work is focused in to address these limitations from a planning and control perspective. More specifically I am interested in developing interconnected planning-control structures  that are computational efficient and adapt to the constantly changing environment. </p>
+
 				<img src="images/planning.png" width="1000" height="480">
                                 <img src="images/fetch.jpg" width="400" height="550">
                   </div>
