@@ -18,13 +18,17 @@
     		<div class="blurb", align="justify">
         		<h1>Teaching</h1>
                          <h2> Courses</h2>
-			<p> NAVARCH59016 Autonomous Underwater Vehicles - University of Michigan (Winter 2018)</p>
-		      <h2> Seminars, Tutorials and Laboratories</h2>	
-		       <p> Circuits and Analysis - Heriot Watt University (Spring 2016) </p>
+			<p> <i>Autonomous Underwater Vehicles</i> - University of Michigan (Winter 2018)</p>
+		      <h2> Seminars, Tutorials and Laboratories</h2>
+                      <p> <i>Introduction to Electrical Engineering</i> - Heriot Watt University (Fall 2014, 2015, 2016)) </p>		
+		       <p> <i>Circuits and Analysis</i> - Heriot Watt University (Spring 2016) </p>
                          			
-		     <p> Introduction to Electrical Engineering - Heriot Watt University (Fall 2014, 2015, 2016)) </p>	
-                     <p> Digital Design - Heriot Watt University (Spring 2014) </p>	
+		    
+                     <p> <i>Digital Design</i> - Heriot Watt University (Spring 2014) </p>	
  		     <p> Statistics - Heriot Watt University (Fall 2013) </p>			
+                  <h2> Invited Lectures</h2>
+			 <p> Introduction to Engineering: Field trials for underwater robots - University of Michigan (Spring 2019, Spring 2018) </p>			
+                         <p> Mobile Robotics: Underwater Robots - University of Michigan (Spring 2019) </p>	
 		</div><!-- /.container -->
 		<footer>
     		<ul>
