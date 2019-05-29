@@ -1,0 +1,35 @@
+	<head>
+		<title>Teaching</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/publications">Publications</a></li>
+        		<li><a href="/research">Research</a></li>
+            		<li><a href="/teaching">Teaching</a></li>
+			<li><a href="/outreach">Outreach</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb", align="justify">
+        		<h1>Teaching</h1>
+                         <h2> Courses</h2>
+			<p> NAVARCH59016 Autonomous Underwater Vehicles - University of Michigan (Winter 2018)</p>
+		      <h2> Seminars, Tutorials and Laboratories</h2>	
+		       <p> Circuits and Analysis - Heriot Watt University (Spring 2016) </p>
+                         			
+		     <p> Introduction to Electrical Engineering - Heriot Watt University (Fall 2014, 2015, 2016)) </p>	
+                     <p> Digital Design - Heriot Watt University (Spring 2014) </p>	
+ 		     <p> Statistics - Heriot Watt University (Fall 2013) </p>			
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:corinaba@umich.edu">email</a></li>
+        		<!--<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li> -->
+			</ul>
+		</footer>
+	</body>
