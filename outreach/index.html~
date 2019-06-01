@@ -1,5 +1,5 @@
-	<head>
-		<title>Teaching</title>
+		<head>
+		<title>Outreach</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
@@ -22,20 +22,30 @@
         		 <li><a href="https://www.firstchampionship.org/detroit">https://www.firstchampionship.org/detroit</a></li> 
 			</ul>	
 		        <div style="width:image width px; font-size:80%; text-align:center">
-					<img src="images/control_m.png"> 
+					<img src="images/first_chamiopships.jpg"> 
                                 </div> 
 		      <h2> Robotics Institute Ground Breaking, University of Michigan, 2018</h2>
 			  <ul>
         		 <li><a href="https://news.umich.edu/u-m-breaks-ground-on-ford-robotics-building/">https://news.umich.edu/u-m-breaks-ground-on-ford-robotics-building/</a></li> 
 			</ul>	
                        <div style="width:image width px; font-size:80%; text-align:center">
-					<img src="images/fetch_groundbreaking.png"> 
+					<img src="images/fetch_groundbreaking.jpg"> 
                                 </div> 
-                     
+                   <h2> euRathlon Italy, 2015</h2>
+                       <ul>
+        		 <li><a href="https://www.youtube.com/watch?v=9FJuwsy7MEk">https://www.youtube.com/watch?v=9FJuwsy7MEk</a></li> 
+                         <li><a href="http://www.euroc-project.eu/index.php?id=209">http://www.euroc-project.eu/index.php?id=209</a></li> 
+			</ul>  
+			 <div style="width:image width px; font-size:80%; text-align:center">
+					<img src="images/fetch_euRathlon.JPG">  
+                                        <img src="images/fetch_euRathlon2.JPG">  
+
                   <h2> Girlguiding Scotland, 2014-2017</h2>
                        <ul>
         		 <li><a href="https://www.girlguidingscotland.org.uk/">https://www.girlguidingscotland.org.uk/</a></li> 
 			</ul>
+			 <div style="width:image width px; font-size:80%; text-align:center">
+					<img src="images/fetch_groundbreaking.jpg"> 	
 		</div><!-- /.container -->
 		<footer>
     		<ul>
