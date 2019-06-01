@@ -29,7 +29,7 @@
         		 <li><a href="https://news.umich.edu/u-m-breaks-ground-on-ford-robotics-building/">https://news.umich.edu/u-m-breaks-ground-on-ford-robotics-building/</a></li> 
 			</ul>	
                        <div style="width:image width px; font-size:80%; text-align:center">
-					<img src="images/fetch_groundbreaking.jpg"> 
+					<img src="images/fetch_groundbreaking.jpg" style="width: 50%; height: 50%"> 
                                 </div> 
                    <h2> euRathlon Italy, 2015</h2>
                        <ul>
@@ -45,8 +45,7 @@
                        <ul>
         		 <li><a href="https://www.girlguidingscotland.org.uk/">https://www.girlguidingscotland.org.uk/</a></li> 
 			</ul>
-			 <div style="width:image width px; font-size:80%; text-align:center">
-					<img src="images/fetch_groundbreaking.jpg"> 	
+			
 		</div><!-- /.container -->
 		<footer>
     		<ul>
