@@ -17,19 +17,19 @@
 		<div class="container">
     		<div class="blurb" align="justify">
 			<ul>
-                        <li> Barbalata, Corina; Vasudevan, Ram; Johnson-Roberson, Matthew; "A constrained control-planning strategy for redundant manipulators, arXiv preprint arXiv:1810.03945, 2018 </li>
-                        <li> Iscar, Eduardo; Barbalata, Corina; Goumas, Nicholas; Johnson-Roberson, Matthew; "Towards low cost, deep water AUV optical mapping", OCEANS 2018 MTS/IEEE Charleston, 2018 </li>
-                        <li> Olson, Elizabeth A; Barbalata, Corina; Zhang, Junming; Skinner, Katherine A; Johnson-Roberson, Matthew; "Synthetic Data Generation for Deep Learning of Underwater Disparity Estimation", OCEANS 2018 MTS/IEEE Charleston, 2018 </li>
-                        <li> Barbalata, Corina; Dunnigan, Matthew; Petillot, Yvan; "Coupled and Decoupled Force/Motion Controllers for an Underwater Vehicle-Manipulator System", Journal of Marine Science and Engineering, 2018 </li>
-                        <li> Barbalata, Corina; Dunnigan, Matthew W; Petillot, Yvan; "Position/force operational space control for underwater manipulation", Robotics and Autonomous Systems, 2018 </li>
-                       <li> Barbalata, Corina; "Modelling and control of lightweight underwater vehicle-manipulator systems", 2017, Heriot-Watt University </li>
-                       <li> Bezanson, Leverett; Reed, Scott; Martin, Emilio Miguelanez; Vasquez, Jose; Barbalata, Corina; "Coupled control of a lightweight ROV and manipulator arm for intervention tasks, OCEANS 2017-Anchorage, 2017 </li>
-                        <li> Tusa, Eduardo; Akbarinia, Arash; Rodriguez, Raquel Gil; Barbalata, Corina; "Real-Time Face Detection and Tracking Utilising OpenMP and ROS", 2015 Asia-Pacific Conference on Computer Aided System Engineering, 2015 </li>
-                       <li> Barbalata, Corina; Dunnigan, Mathew Walter; Pétillot, Yvan; "Reduction of the dynamic coupling in an underwater vehicle-manipulator system using an inverse dynamic model approach", 4th IFAC NGCUV, 2015 </li> 
-                        <li> Barbalata, Corina; De Carolis, Valerio; Dunnigan, Matthew W; Petillot, Yvan; Lane, David; "An adaptive controller for autonomous underwater vehicles", 2015 IEEE/RSJ IROS, 2015</li>
-                        <li> Barbalata, Corina; Dunnigan, Matthew W; Pétillot, Yvan; ,"Dynamic coupling and control issues for a lightweight underwater vehicle manipulator system", 2014 IEEE Oceans-St. John's, 2014  </li>
-<li> Barbalata, Corina; Mattos, Leonardo S; "Laryngeal tumor detection and classification in endoscopic video", IEEE Journal of Biomedical and Health Informatics, 2014 </li>
-<li> Barbalata, Corina; Mattos, Leonardo S; "Laryngeal Tumor Classification in Endoscopic Video", 3rd Joint Workshop on New Technologies for Computer/Robot Assisted Surgery, 2013 </li>
+                        <li> Barbalata, Corina; Vasudevan, Ram; Johnson-Roberson, Matthew; " <i>A constrained control-planning strategy for redundant manipulators </i>", arXiv preprint arXiv:1810.03945, 2018 </li>
+                        <li> Iscar, Eduardo; Barbalata, Corina; Goumas, Nicholas; Johnson-Roberson, Matthew; " <i>Towards low cost, deep water AUV optical mapping </i>", OCEANS 2018 MTS/IEEE Charleston, 2018 </li>
+                        <li> Olson, Elizabeth A; Barbalata, Corina; Zhang, Junming; Skinner, Katherine A; Johnson-Roberson, Matthew; " <i>Synthetic Data Generation for Deep Learning of Underwater Disparity Estimation </i>", OCEANS 2018 MTS/IEEE Charleston, 2018 </li>
+                        <li> Barbalata, Corina; Dunnigan, Matthew; Petillot, Yvan; " <i>Coupled and Decoupled Force/Motion Controllers for an Underwater Vehicle-Manipulator System </i>", Journal of Marine Science and Engineering, 2018 </li>
+                        <li> Barbalata, Corina; Dunnigan, Matthew W; Petillot, Yvan; " <i>Position/force operational space control for underwater manipulation </i>", Robotics and Autonomous Systems, 2018 </li>
+                       <li> Barbalata, Corina; " <i>Modelling and control of lightweight underwater vehicle-manipulator systems </i>", 2017, Heriot-Watt University </li>
+                       <li> Bezanson, Leverett; Reed, Scott; Martin, Emilio Miguelanez; Vasquez, Jose; Barbalata, Corina; " <i>Coupled control of a lightweight ROV and manipulator arm for intervention tasks </i>", OCEANS 2017-Anchorage, 2017 </li>
+                        <li> Tusa, Eduardo; Akbarinia, Arash; Rodriguez, Raquel Gil; Barbalata, Corina; " <i>Real-Time Face Detection and Tracking Utilising OpenMP and ROS </i>", 2015 Asia-Pacific Conference on Computer Aided System Engineering, 2015 </li>
+                       <li> Barbalata, Corina; Dunnigan, Mathew Walter; Pétillot, Yvan; " <i>Reduction of the dynamic coupling in an underwater vehicle-manipulator system using an inverse dynamic model approach </i>", 4th IFAC NGCUV, 2015 </li> 
+                        <li> Barbalata, Corina; De Carolis, Valerio; Dunnigan, Matthew W; Petillot, Yvan; Lane, David; " <i>An adaptive controller for autonomous underwater vehicles </i>", 2015 IEEE/RSJ IROS, 2015</li>
+                        <li> Barbalata, Corina; Dunnigan, Matthew W; Pétillot, Yvan; ," <i>Dynamic coupling and control issues for a lightweight underwater vehicle manipulator system </i>", 2014 IEEE Oceans-St. John's, 2014  </li>
+<li> Barbalata, Corina; Mattos, Leonardo S; " <i>Laryngeal tumor detection and classification in endoscopic video </i>", IEEE Journal of Biomedical and Health Informatics, 2014 </li>
+<li> Barbalata, Corina; Mattos, Leonardo S; " <i>Laryngeal Tumor Classification in Endoscopic Video </i>", 3rd Joint Workshop on New Technologies for Computer/Robot Assisted Surgery, 2013 </li>
         		</ul>
 			<!-- 	<script src="https://bibbase.org/show?bib=http://www.bibsonomy.org/bib/author/barbalata?items=1000&jsonp=1"></script> -->
     		</div><!-- /.blurb -->
