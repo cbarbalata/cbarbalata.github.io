@@ -31,7 +31,8 @@
 				<p> </p>                                           
 				
     		</div><!-- /.blurb -->
-                <div class="auv", align="justify">			 
+                <div class="auv", align="justify">	
+                               <p> </p> 		 
 				<h2> Autonomous Underwater Vehicles</h2>
 				<p>  Autonomous  underwater  vehicles  (AUVs) can  be  used  to  explore parts  of  the  ocean  that  were  previously  inaccessible  to mankind, e.g. below the ice sheets in the polar regions or confined underwater areas such as caves.  AUVs  have  a  wide  range  of  applications  from bathymetric mapping for scientific purposes, pipe inspection for the oil and gas industry or area surveillance for military
 applications. My work focuses o developing control structures for these systems that will make them reliable to operate in unforseen conditions and robust to large disturbances. Furthermore, my interest rests in developing systems that will extend the autonomy of the AUVs by making them energy and cost efficient. </p>
