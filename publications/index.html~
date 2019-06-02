@@ -17,6 +17,7 @@
 		<div class="container">
     		<div class="blurb" align="justify">
                         <h1>Publications</h1>
+                       <font size="+2">
 			<ul>
                         <li> Barbalata, Corina; Vasudevan, Ram; Johnson-Roberson, Matthew; " <i>A constrained control-planning strategy for redundant manipulators </i>", arXiv preprint arXiv:1810.03945, 2018 </li>
                         <li> Iscar, Eduardo; Barbalata, Corina; Goumas, Nicholas; Johnson-Roberson, Matthew; " <i>Towards low cost, deep water AUV optical mapping </i>", OCEANS 2018 MTS/IEEE Charleston, 2018 </li>
@@ -31,7 +32,7 @@
                         <li> Barbalata, Corina; Dunnigan, Matthew W; Pétillot, Yvan; ," <i>Dynamic coupling and control issues for a lightweight underwater vehicle manipulator system </i>", 2014 IEEE Oceans-St. John's, 2014  </li>
 <li> Barbalata, Corina; Mattos, Leonardo S; " <i>Laryngeal tumor detection and classification in endoscopic video </i>", IEEE Journal of Biomedical and Health Informatics, 2014 </li>
 <li> Barbalata, Corina; Mattos, Leonardo S; " <i>Laryngeal Tumor Classification in Endoscopic Video </i>", 3rd Joint Workshop on New Technologies for Computer/Robot Assisted Surgery, 2013 </li>
-        		</ul>
+        		</ul> </font>
 			<!-- 	<script src="https://bibbase.org/show?bib=http://www.bibsonomy.org/bib/author/barbalata?items=1000&jsonp=1"></script> -->
     		</div><!-- /.blurb -->
 			<h2> Keywords </h2>
