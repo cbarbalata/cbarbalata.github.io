@@ -36,10 +36,12 @@
                     </ul>
                     </font>	
                   <h2> Invited Lectures</h2>
+                       <font size="+1"> 
                        <ul>
 			 <li> Introduction to Engineering: <i>Field trials for underwater robots</i> - University of Michigan (Spring 2019, Spring 2018) </li>			
                          <li> Mobile Robotics: <i>Underwater Robots</i> - University of Michigan (Spring 2019)</li>
                  </ul>	
+                 </font>	
 		</div><!-- /.container -->
 		<footer>
     		<ul>
