@@ -156,7 +156,6 @@ body {font-family: Arial;}
 			<p> As Co-Director of the <a class="highlight-text" href="https://icorelab.github.io/"> iCORE lab</a>, I am leading the <i> BlueFieldsRobotics </i> group. Our group is focused on developing robotic systems that are able to operate in complex and unstructured environments, focusing on topics such as control theory, motion and interaction planning, energy-efficient systems, and robot perception. Our research is applied to underwater robotic systems such as autonomous underwater vehicles, underwater vehicle-manipulator systems, mobile manipulation for personal & industrial environments, and robotic perception systems for bio-medical applications. </p>
 
 <div class="container">
-<h2>Areas</h2> 
 <div class="tab">
   <button class="tablinks" onclick="openCity(event, 'underwater')">Underwater Robotics</button>
   <button class="tablinks" onclick="openCity(event, 'perobot')">Personal & Industrial Robotics</button>
@@ -168,9 +167,9 @@ body {font-family: Arial;}
 <p>  Ocean is covering more than 70% of the planet's surface, but unfortunately, more than eighty percent of this vast environment remains unmapped, unobserved, and unexplored. Underwater robots are the technology that can facilitate scientists access to the depth of the ocean. Our group is focused on enabling robotic technologies with smart capabilities for autonomous exploration and intervention in underwater environments.    </p>
 
 <div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'uwmanipulation')">Underwater Manipulators</button>
-  <button class="tablinks" onclick="openCity(event, 'auv')">Autonomous Underwater Vehicles</button>
-  <button class="tablinks" onclick="openCity(event, 'uvms')">Underwater Vehicle-Manipulator Systems</button>
+  <button class="tablinks" onclick="openTopic(event, 'uwmanipulation')">Underwater Manipulators</button>
+  <button class="tablinks" onclick="openTopic(event, 'auv')">Autonomous Underwater Vehicles</button>
+  <button class="tablinks" onclick="openTopic(event, 'uvms')">Underwater Vehicle-Manipulator Systems</button>
 </div>
  </div> 
 
@@ -246,6 +245,20 @@ applications. Our work focuses o developing control structures for these systems
 
  <script>
 function openCity(evt, cityName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(cityName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+
+function OpenTopic(evt, cityName) {
   var i, tabcontent, tablinks;
   tabcontent = document.getElementsByClassName("tabcontent");
   for (i = 0; i < tabcontent.length; i++) {
