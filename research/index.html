@@ -37,6 +37,71 @@ body {font-family: Arial;}
   border: 1px solid #ccc;
   border-top: none;
 }
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  cursor: pointer;
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: white;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit;
+  margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn, .dropbtn:focus {
+  background-color: red;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+.show {
+  display: block;
+}
 </style>
          
 
@@ -124,48 +189,16 @@ applications. My work focuses o developing control structures for these systems 
 <div id="uwmanipulation" class="tabcontent">
  <p>  Ocean is covering more than 70% of the planet's surface, but unfortunately, more than eighty percent of this vast environment remains unmapped, unobserved, and unexplored. Underwater robots are the technology that can facilitate scientists access to the depth of the ocean. Our group is focused on enabling robotic technologies with smart capabilities for autonomous exploration and intervention in underwater environments.    </p>
 
-<div class="ui dropdown">
-  <div class="text">File</div>
-  <i class="dropdown icon"></i>
-  <div class="menu">
-    <div class="item">New</div>
-    <div class="item">
-      <span class="description">ctrl + o</span>
-      Open...
-    </div>
-    <div class="item">
-      <span class="description">ctrl + s</span>
-      Save as...
-    </div>
-    <div class="item">
-      <span class="description">ctrl + r</span>
-      Rename
-    </div>
-    <div class="item">Make a copy</div>
-    <div class="item">
-      <i class="folder icon"></i>
-      Move to folder
-    </div>
-    <div class="item">
-      <i class="trash icon"></i>
-      Move to trash
-    </div>
-    <div class="divider"></div>
-    <div class="item">Download As...</div>
-    <div class="item">
-      <i class="dropdown icon"></i>
-      Publish To Web
-      <div class="menu">
-        <div class="item">Google Docs</div>
-        <div class="item">Google Drive</div>
-        <div class="item">Dropbox</div>
-        <div class="item">Adobe Creative Cloud</div>
-        <div class="item">Private FTP</div>
-        <div class="item">Another Service...</div>
-      </div>
-    </div>
-    <div class="item">E-mail Collaborators</div>
+<div class="dropdown">
+  <button class="dropbtn" onclick="myFunction()">Dropdown
+    <i class="fa fa-caret-down"></i>
+  </button>
+  <div class="dropdown-content" id="myDropdown">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
   </div>
+  </div> 
 </div>
  <!-- <h3>Underwater Manipulators</h3> -->
   <p>  An underwater manipulator is a complex system, highly non-linear and subject to disturbances caused by underwater effects. To obtain a reliable system, robust control strategies have to be designed for the manipulator. The work is focused on the development of model-based low-level position/force control structures for underwater manipulators, both electric and hydraulic. Investigation into data-based dynamic modelling for underwater manipulators, incorporating  hydrodynamic effects and end-effector force contact with the environment. </p>
@@ -244,6 +277,22 @@ function openCity(evt, cityName) {
   }
   document.getElementById(cityName).style.display = "block";
   evt.currentTarget.className += " active";
+}
+
+/* When the user clicks on the button, 
+toggle between hiding and showing the dropdown content */
+function myFunction() {
+  document.getElementById("myDropdown").classList.toggle("show");
+}
+
+// Close the dropdown if the user clicks outside of it
+window.onclick = function(e) {
+  if (!e.target.matches('.dropbtn')) {
+  var myDropdown = document.getElementById("myDropdown");
+    if (myDropdown.classList.contains('show')) {
+      myDropdown.classList.remove('show');
+    }
+  }
 }
 </script>
 	</body>
