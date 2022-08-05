@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<title>Corina Barbalata</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+			<style>
+			img {
+			  float: right;
+			}
+			</style>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/publications">Publications</a></li>
+        		<li><a href="/research">Research</a></li>
+            		<li><a href="/teaching">Teaching</a></li>
+			<li><a href="/outreach">Outreach</a></li> 
+
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="blurb", align ="justify">
+        		<h1>Corina Barbalata</h1>
+			<h2> Assistant Professor @ Mechanical and Industrial Engineering, Louisiana State University</h2>
+			<!--h2> Postdoctoral Research Fellow in <a href="https://droplab.engin.umich.edu/">DROP lab</a> Univeristy of Michigan </h2-->
+                       <p><img src="images/robot.jpg" style="width: 30%; height: 30%"> <a href="/about">Find out more...</a></p>
+                    		</div><!-- /.blurb -->
+			<hr>
+		        <h2> News </h2>	
+				
+                          <font size="+2">  
+ <ul> 
+                         <!--li> Looking <font size="+2"> <b> for students </b> interested in working in the area of underwater and industrial robotics. If interested, contact me at <a href="cbarbalata@lsu.edu">cbarbalata@lsu.edu</a> </font></li-->
+                         <li> We got funded by NSF for the project "NRI: FND: Collaborative Mobile Manufacturing in Uncertain Scenarios" (PI - $746,943) </li> 
+	                 <li> Our research group has been featured in:   <a href="https://blueprintlab.com/lsu-advanced-robotics-research/"> https://blueprintlab.com/lsu-advanced-robotics-research/ </a> </li> 
+	                 <li> Our website NRI-CmmUS-LSU has launched at: <a href="https://nri-cmmus-lsu.github.io/ ">https://nri-cmmus-lsu.github.io/ </a></li>
+                       </ul> </font>
+                        <hr>		
+			<h2> Keywords </h2>
+				<p> robotics, underwater robots, robotic manipulation, autonomous underwater vehicles, lightweight underwater systems, control, motion and interaction control, planning, perception </p>
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:cbarbalata@lsu.edu">email</a></li>
+        		<!--<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li> -->
+			</ul>
+		</footer>
+	</body>
+</html>
